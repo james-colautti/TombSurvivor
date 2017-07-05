@@ -1,7 +1,9 @@
 # TombSurvivor
-A simple game where the user must juggle the artifact without dropping it. (An early prototype for a more detailed game.)
+A simple game playable in iOS, Android, and web browsers where the user must juggle the artifact without dropping it. (An early prototype for a more detailed game.)
 <br>
-Tap and hold on the artifact to pick it up. Drag it around and swipe and release to toss it. Make sure to catch it before it falls off the screen.
+<b>Note: All current assets are placeholders.</b>
+<br><br>
+Tap and hold on the artifact to pick it up. It can be dragged around freely and thrown by swiping quickly before releasing. Toss it up and make sure to catch it before it falls off the screen! Try and juggle the artifact as many times as you can.
 <br><br>
 Playable at http://james.colautti.ca/Projects/TombSurvivor/
 <br><br>
